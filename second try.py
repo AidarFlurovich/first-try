@@ -1,0 +1,1 @@
+print("o my God")
